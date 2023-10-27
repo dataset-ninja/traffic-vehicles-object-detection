@@ -4,4 +4,6 @@ The dataset consists of 1201 images with 11134 labeled objects belonging to 7 di
 
 Images in the Traffic Vehicles Object Detection dataset have bounding box annotations. There are 285 (24% of the total) unlabeled images (i.e. without annotations). There are 3 splits in the dataset: *train* (738 images), *test* (278 images), and *val* (185 images). The dataset was released in 2021.
 
-<img src="https://github.com/dataset-ninja/traffic-vehicles-object-detection/raw/main/visualizations/poster.png">
+Here are the visualized examples for the classes:
+
+[Dataset classes](https://github.com/dataset-ninja/traffic-vehicles-object-detection/raw/main/visualizations/classes_preview.webm)
